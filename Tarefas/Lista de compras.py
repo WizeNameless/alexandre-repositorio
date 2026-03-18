@@ -34,3 +34,4 @@ print ("Primeiros 3 itens da lista:", lista_compras [0:3])   # Exibe os itens do
 print ("Últimos 2 itens da lista:", lista_compras [-2:])     # Exibe os últimos 2 itens da lista
 print ("Itens do meio da lista:", lista_compras [1:4])       # Exibe os itens do índice 1 ao 3
 
+#gg
