@@ -11,6 +11,6 @@ numeros = [n1, n2, n3, n4]
 alvo = int(input ("Digite um numero para excluir: "))
 if alvo in numeros:
     numeros.remove (alvo)
-    print ("Lista atualizada:", len (numeros), numeros)
+    print ("Lista atualizada:", len (numeros))
 else :
     print ("Número não existe")
