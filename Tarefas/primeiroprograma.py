@@ -1,2 +1,2 @@
-nome = input ("qual seu nome")
-print ("olá", nome)
+nome = input ("qual seu nome: ")
+print ("Hello Word")
