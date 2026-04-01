@@ -5,8 +5,6 @@ num3 = int (input ("Digite o terceiro número inteiro: "))
 
 numeros = [num1, num2, num3]
 
-# Atualize o ultimo elemento para a soma dos dois primeiros
-
 numeros [2] = numeros [0] + numeros [1]
 
 print ("Lista atualizada:", numeros)
